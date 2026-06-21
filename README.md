@@ -1,22 +1,50 @@
-This is a python-based password strength checker that evaluates the strength of a password based on various security criterias
-features are-
-checks password lenght
-detects uppercase letters 
-detects numbers used
-detects special characters
-provides feedbacks on password strength
-Technology used is : python 3
-HOW TO RUN:
-CLONE THE REPOSITORY: GIT CLONE
-Navigate to the project folder:cd password-strength-checker 
-Run the programn:python password_checker.py
-EXAMPLE 
-enter password :Password123!
-password strength:strong
-LEARNING OUTCOMES
-conditional statements 
-string handling in python
-Basic cybersecurity concepts
-Password security requirements
+# Password Checker
 
-AURTHUR-Shivangi lohia
+A beginner Python project that checks password strength based on security criteria.
+
+## Features
+
+- Checks password length
+- Detects uppercase letters
+- Detects numbers
+- Detects special characters
+- Provides feedback on password strength
+
+## Technology Used
+
+- Python 3
+
+## How to Run
+
+1. Clone the repository
+2. Navigate to the project folder
+3. Run:
+
+```bash
+python password_checker.py
+```
+
+## Example
+
+Input:
+
+```text
+Password123!
+```
+
+Output:
+
+```text
+Strong Password
+```
+
+## Learning Outcomes
+
+- Conditional statements
+- String handling in Python
+- Basic cybersecurity concepts
+- Password security requirements
+
+## Author
+
+Shivangi Lohia
